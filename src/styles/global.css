@@ -1,12 +1,8 @@
 @font-face {
-  font-family: 'Inknut Antiqua';
+  font-family: 'Cutive Mono';
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Montserrat';
-  font-display: swap;
-}
 
 :root {
   /*
@@ -32,9 +28,9 @@
   /*
   * Typography
   */
-  --fonts-copy: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+  --fonts-copy: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  --fonts-titles: 'Inknut Antiqua', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+  --fonts-titles: 'Cutive Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
   /*

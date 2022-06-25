@@ -39,9 +39,9 @@
     },
     "slowby": {
       "banner": {
-        "copy": "Do you want to get started with slow travel? Good news! You can now take secret slow travel trips to discover the hidden side of Belgium. We just launched {title} - go check it out at {link}.",
-        "title": "Slowby",
-        "url": "https://slowby.travel"
+        "copy": "Do you want to join the cooperative? You can learn more and apply here {title} - go check it out at {link}.",
+        "title": "LeisureDAO",
+        "url": "https://lsrdao.xyz"
       }
     },
     "intro": {
