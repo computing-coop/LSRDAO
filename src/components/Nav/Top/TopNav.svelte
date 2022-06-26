@@ -12,7 +12,7 @@
 <nav>
   <a href={routes.HOME} class="title">
     <h1>
-      {#if !$isActive('/index')}Welcome To My Garden{/if}
+      {#if !$isActive('/index')}Leisure Cooperative{/if}
     </h1>
   </a>
   <ul>
@@ -56,6 +56,7 @@
     padding: 0 0 0 5rem;
     z-index: 110;
     background-color: var(--color-white);
+    border-bottom: 1px solid rgb(212, 218, 226);
     box-shadow: 0 0 3.3rem rgba(0, 0, 0, 0.1);
   }
 

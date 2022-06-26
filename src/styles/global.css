@@ -11,12 +11,12 @@
   --color-white: #fff;
   --color-black: #333;
   --color-gray: #e5e5e5;
-  --color-darker-gray: #828b80;
-  --color-orange: #ce6854;
+  --color-darker-gray: #ffe7b7;
+  --color-orange: #dc5f46;
   --color-orange-light: #ed7f69;
   --color-beige-light: #f9f5ee;
   --color-beige: #f0e7d5;
-  --color-green: #495747;
+  --color-green: #1e1e1e;
   --color-green-light: #cfe3d4;
   --color-copy: #495747;
   --color-info: #2d69ea;
@@ -64,7 +64,7 @@ body {
   padding: 0;
   margin: 0;
   background-color: var(--color-white);
-  color: var(--color-green);
+  color: var(--color-black);
   font-size: 1.6rem;
   font-family: var(--fonts-copy);
 }
@@ -165,7 +165,7 @@ strong {
 .input {
   padding: 1.2rem 0;
   border: none;
-  border-bottom: 1px solid var(--color-green);
+  border-bottom: 1px solid var(--color-black);
   transition: border 300ms ease-in-out;
   font-size: 1.6rem;
   outline: none;

@@ -1,7 +1,7 @@
 {
- "name": "Welcome To My Garden",
- "short_name": "WTMG",
- "description": "Welcome To My Garden is a not-for-profit network of citizens offering free camping spots in their gardens to slow travellers.",
+ "name": "Leisure Cooperative",
+ "short_name": "LC",
+ "description": "is a marketplace for sharing leisure resources, spaces and knowledge to grow a new leisure class.",
  "start_url": "/",
  "scope": "/",
  "background_color": "#FFFFFF",

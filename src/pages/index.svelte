@@ -34,7 +34,7 @@
 </script>
 
 <svelte:head>
-  <title>{$_('generics.home')} | Welcome To My Garden</title>
+  <title>{$_('generics.home')} | Leisure Cooperative</title>
 </svelte:head>
 
 <SlowbyBanner />
@@ -44,7 +44,7 @@
     <div class="welcome-logo">
       {@html Logo}
     </div>
-    <h1 class="heading-underline-center">Welcome To My Garden</h1>
+    <h1 class="heading-underline-center">Free time</h1>
     <p class="welcome-text">{$_('index.intro.copy')}</p>
     <div class="welcome-buttons">
       <!-- User is not logged in -->

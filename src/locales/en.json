@@ -1,5 +1,5 @@
 {
-  "tagline": "Welcome To My Garden is a not-for-profit network of citizens offering free camping spots in their gardens to slow travellers.",
+  "tagline": "Leisure Cooperative is a marketplace for sharing leisure resources and knowledge.",
   "generics": {
     "password": "Password",
     "email": "Email",
@@ -19,7 +19,7 @@
     "sign-in": "Sign in",
     "garden": "Garden",
     "shop": "Shop",
-    "slowby": "Secret Trips"
+    "slowby": "DAO"
   },
   "ui": {
     "card": {
@@ -45,15 +45,15 @@
       }
     },
     "intro": {
-      "copy": "A not-for-profit network of citizens offering free camping spots in their gardens to slow travellers",
-      "add-garden": "Add your garden",
+      "copy": "A marketplace for sharing leisure resources and knowledge in the experience economy.",
+      "add-garden": "Add your listing",
       "explore-map": "Explore map",
       "learn-more": "Learn more"
     },
     "steps": {
       "0": {
         "title": "Step 1: Sign up to become or find a host",
-        "copy": "Do you want to open up your garden? {addGardenLink}. Are you looking for a camping spot? Pick your favourite garden and contact your host! Arrange a date and time for your stay and off you go!",
+        "copy": "Do you want to open up your resource? {addGardenLink}. Are you looking for a somewhere to go? Find what you need and contact your host! Arrange a date and time to share and go!",
         "add-garden-link-text": "Add it to the map"
       },
       "1": {
@@ -97,11 +97,11 @@
     },
     "support": {
       "title": "Support us",
-      "copy": "Welcome To My Garden is free to use but we have to pay a couple of bills. {donationLink} to keep us going!",
+      "copy": "Leisure Cooperative is free while in development, but we still have to pay a couple of bills. {donationLink} to keep us going!",
       "donation-link-text": "Make a donation"
     },
     "holiday-donations": {
-      "title": "Everyone deserves a holiday",
+      "title": "Everyone deserves leisure",
       "copy": "Did you know that 22% of children can't go on a holiday? After the lockdown, they need some breathing room now more than ever. Thanks to your contribution, the most vulnerable groups can also experience a getaway.",
       "link-text": "Donate now"
     }
@@ -780,8 +780,8 @@
   },
   "map": {
     "vehicle-notice": {
-      "title": "Welcome To My Garden is for slow travellers only.",
-      "text": "If you're planning to travel by motorized vehicle, please do not contact hosts via this platform. Thank you for understanding!"
+      "title": "Leisure Cooperative is a community.",
+      "text": "We don't discriminate, but we do have a very strict policy on using the platform, one strike against our rules and your access will be removed. This is one planet, therefore we are all in this together!"
     },
     "trails": {
       "hiking": "Show hiking routes",
