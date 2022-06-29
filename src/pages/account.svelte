@@ -65,7 +65,7 @@
 </script>
 
 <svelte:head>
-  <title>{$_('account.title')} | Welcome To My Garden</title>
+  <title>{$_('account.title')} | Leisure Cooperative</title>
 </svelte:head>
 
 {#if $user}

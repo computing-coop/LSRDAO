@@ -110,7 +110,7 @@
 </script>
 
 <svelte:head>
-  <title>{$_('register.title')} | Welcome To My Garden</title>
+  <title>{$_('register.title')} | Leisure Cooperative</title>
 </svelte:head>
 
 <Progress active={$isRegistering} />
