@@ -21,6 +21,7 @@
     "@mapbox/mapbox-gl-geocoder": "^4.5.1",
     "@rollup/plugin-dynamic-import-vars": "^1.4.0",
     "@roxi/routify": "^2.18.3",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.65",
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.15",
     "dotenv": "^8.2.0",
     "eslint": "^6.8.0",
