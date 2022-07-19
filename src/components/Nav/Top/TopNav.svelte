@@ -56,7 +56,7 @@
     padding: 0 0 0 5rem;
     z-index: 110;
     background-color: var(--color-white);
-    border-bottom: 1px solid rgb(212, 218, 226);
+    border-bottom: 1px solid rgb(4, 12, 22);
     box-shadow: 0 0 3.3rem rgba(0, 0, 0, 0.1);
   }
 

@@ -10,7 +10,7 @@
   import partners from '../partners';
 
   import Logo from '../images/logo.svg';
-  import welcomeMap from '../images/welcome-map.svg';
+  import welcomeMap from '../images/tent-people.svg';
   import ArrowDown from '../images/arrow-down.svg';
 
   import Step1 from '@/images/step-1.svg';
@@ -44,7 +44,7 @@
     <div class="welcome-logo">
       {@html Logo}
     </div>
-    <h1 class="heading-underline-center">Free time</h1>
+   <!-- <h1 class="heading-underline-center">Free time</h1>-->
     <p class="welcome-text">{$_('index.intro.copy')}</p>
     <div class="welcome-buttons">
       <!-- User is not logged in -->
@@ -213,8 +213,8 @@
 
   .welcome-map {
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 3rem;
+    top: 10rem;
     width: 35vw;
     max-width: 54rem;
   }
