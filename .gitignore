@@ -29,8 +29,8 @@ lerna-debug.log*
 .DS_Store
 node_modules
 
-#dist
-#.routify
+dist
+.routify
 
 .env*
 !.env.example
