@@ -37,3 +37,6 @@ You can easily make an account and start translating in their web-environment - 
 
 ## License
 ![GitHub](https://img.shields.io/github/license/welcometomygarden/welcometomygarden?label=License)
+
+
+Something VITE command to build properly...
