@@ -1,8 +1,14 @@
 @font-face {
-  font-family: 'Cutive Mono';
-  font-display: swap;
+  font-family: "Akkurat";
+  src: url("/src/fonts/Akkurat.woff2") format("woff2"),
+       url("/src/fonts/Akkurat.woff") format("woff");
 }
 
+@font-face {
+  font-family: "Leisure Grotesk";
+  src: url("/src/fonts/NeueHaasUnica-Regular.woff2") format("woff2"),
+       url("/src/fonts/NeueHaasUnica-Regular.woff") format("woff");
+}
 
 :root {
   /*
@@ -28,9 +34,9 @@
   /*
   * Typography
   */
-  --fonts-copy: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+  --fonts-copy: 'Akkurat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  --fonts-titles: 'Arial Narrow Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+  --fonts-titles: 'Leisure Grotesk', Arial Narrow Bold, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
   /*
@@ -179,14 +185,14 @@ strong {
 
 a.link {
   color: var(--color-orange);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a.link:visited,
 a.link:active,
 a.link:hover {
   color: var(--color-orange);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .danger {
