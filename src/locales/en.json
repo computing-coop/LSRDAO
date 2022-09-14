@@ -52,17 +52,17 @@
     },
     "steps": {
       "0": {
-        "title": "Step 1: Sign up to become or find a host",
-        "copy": "Do you want to open up your resource? {addGardenLink}. Are you looking for a somewhere to go? Find what you need and contact your host! Arrange a date and time to share and go!",
+        "title": "Step 1: Sign up to post or find a resource",
+        "copy": "Do you want to open up your resource? {addGardenLink}. Are you looking for a somewhere to stay, a certain tool, do you want to host a workshop? Our joing our DAO.",
         "add-garden-link-text": "Add it to the map"
       },
       "1": {
-        "title": "Step 2: Plan your journey",
-        "copy": "After you’ve made arrangements with your hosts, figure out your walking/biking route to your host’s garden. Introduce yourself and pitch your tent for the night."
+        "title": "Step 2: Search the database",
+        "copy": "Contact the resource holder directly, figure out how you can meet, or exchange. Introduce yourself and what you would like to use it for."
       },
       "2": {
-        "title": "Step 3: Pitch your tent and have fun!",
-        "copy": "Enjoy your stay, whether that means a quiet night all by yourself, having fun with your friends or family or hanging out with your hosts - whatever both parties prefer. Say fond farewells and continue on your hike or ride the next day!"
+        "title": "Step 3: Share more, making it better!",
+        "copy": "The world become a place of shared Leisure Cooperative members with each person sharing what they have and if you join our DAO, you can help guide the future of LC!"
       }
     },
     "faq": {
@@ -71,12 +71,12 @@
       "faq-link-text": "our complete FAQ",
       "questions": {
         "0": {
-          "title": "Who is Welcome To My Garden for?",
-          "copy": "Welcome To My Garden has been created for hikers and cyclists who need a camping spot on their trail at the end of the day. It isn’t meant to replace fully-fledged campsites; just a safe spot for the night! Consider it an addition to Belgium’s network of bivouacking sites. Welcome To My Garden is non-commercial: no money should exchange hands. This means that as a host, you cannot ask your guests to pay for their stay."
+          "title": "Who is Leisure Cooperative for?",
+          "copy": "Leisure Cooperative has been created for hikers and cyclists who need a camping spot on their trail at the end of the day. It isn’t meant to replace fully-fledged campsites; just a safe spot for the night! Consider it an addition to Belgium’s network of bivouacking sites. Welcome To My Garden is non-commercial: no money should exchange hands. This means that as a host, you cannot ask your guests to pay for their stay."
         },
         "1": {
           "title": "How do I get to my camping spot?",
-          "copy": "Welcome To My Garden is for slow travellers only. Please walk or bike to your camping spot. Of course you can use public transport or your car to get to the start of your trail - as long as you don't turn up at your host's in your car!"
+          "copy": "Leisure Cooperative is for slow travellers only. Please walk or bike to your camping spot. Of course you can use public transport or your car to get to the start of your trail - as long as you don't turn up at your host's in your car!"
         },
         "2": {
           "title": "How do I request a stay?",
@@ -87,13 +87,15 @@
           "copy": "Basically hosts just offer a corner in their garden for you to pitch your tent on. In addition, they may offer access to drinking water, a toilet and electricity. They are not obliged to do so though: all of these are bonuses. Consider a garden as a bivouac spot; not a fully-fledged campsite."
         },
         "4": {
-          "title": "Does Welcome To My Garden cost anything?",
-          "copy": "Using Welcome To My Garden is completely free. However, as a platform we do incur costs. If you want to make a donation that will put a big smile on our faces! We are a not-for-profit initiative, so we’re not making any money out of this."
+          "title": "Does Leisure Cooperative cost anything?",
+          "copy": "Using Leisure Cooperative is completely free. However, as a platform we do incur costs. If you want to make a donation that will put a big smile on our faces! We are a not-for-profit initiative, so we’re not making any money out of this."
         }
       }
     },
     "partners": {
-      "title": "Our partners"
+      "title": "Our partners",
+      "copy": "We don't have any partners at the moment, if you would like to get involved, team up or collaborate in any way, reach out {link}!",
+      "url": "mailto:leisurecooperative@gmail.com"
     },
     "support": {
       "title": "Support us",

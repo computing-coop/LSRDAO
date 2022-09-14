@@ -40,3 +40,4 @@ You can easily make an account and start translating in their web-environment - 
 
 
 Something VITE command to build properly...
+deploy to vercel from command line
