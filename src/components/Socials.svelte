@@ -28,7 +28,7 @@
     </a>
   </li>
   <li>
-    <a href="mailto:support@welcometomygarden.org" target="_blank">
+    <a href="mailto:leisurecooperative@gmail.com" target="_blank">
       <img src="/images/icons/email.svg" alt="Mail" />
     </a>
   </li>
